@@ -1,1 +1,1 @@
-# pnx-register-botu
+## GÜN İÇERİSİNDE GÜNCELLENECEKTİR
