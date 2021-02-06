@@ -1,0 +1,37 @@
+{
+    "sorumlu-rolleri":{
+        "kayıt-sorumlusu":"",
+        "chat-sorumlusu":"",
+        "ses-sorumlusu":"",
+        "ban-sorumlusu":"",
+        "jail-sorumlusu":""
+    },
+
+    "kayıt-rolleri":{
+        "erkek-rolü":"803976309583773737",
+        "erkek2-rolü":"",
+        "erkek3-rolü":"yoksa boş bırak",
+
+        "kadın-rolü":"",
+        "kadın2-rolü":"yoksa boş bırak",
+        "kadın3-rolü":"yoksa boş bırak",
+
+        "kayıtsız-rolü":"",
+        "kayıtsız2-rolü":"yoksa boş bırak",
+        "kayıtsız3-rolü":"yoksa boş bırak"
+    },
+
+    "diğer-roller":{
+        "vip":"",
+        "lovers":"",
+        "streamer":"",
+        "ressam":"",
+        "vokal":"",
+        "mute-rolü":"",
+        "uyarı-rolü":"",
+        "uyarı2-rolü":"",
+        "uyarı3-rolü":"",
+        "cezalı-rolü":"",
+        "family-rolü":""
+    }
+}
